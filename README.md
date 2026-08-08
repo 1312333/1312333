@@ -39,8 +39,8 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=1250422131&show_icons=true&theme=transparent" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1250422131&layout=compact&theme=transparent" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=1312333&show_icons=true&theme=transparent" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=13123333&layout=compact&theme=transparent" height="165" />
 
 </div>
 
@@ -49,6 +49,6 @@ const developer = {
 
 ### 💬 一言
 
-*保持饥饿，保持愚蠢*
+*星光不服赶路人，时光不服有心人*
 
 </div>
