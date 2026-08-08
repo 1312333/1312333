@@ -1,16 +1,54 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**1312333/1312333** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Oi！
 
-Here are some ideas to get you started:
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## 👨‍💻 关于我
+
+```typescript
+const developer = {
+  name: "YCH",
+  role: " ",
+  location: "China ",
+  interests: [" "],
+  lifePhilosophy: "我挥舞着键盘和本子，发誓要把这世界写个明明白白。"
+};
+```
+
+
+## 🛠️ 技术栈
+
+### 💻 编程语言
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+
+### 🔧 开发工具
+
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+
+## 📊 GitHub 统计
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=1250422131&show_icons=true&theme=transparent" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1250422131&layout=compact&theme=transparent" height="165" />
+
+</div>
+
+---
+<div align="center">
+
+### 💬 一言
+
+*保持饥饿，保持愚蠢*
+
+</div>
