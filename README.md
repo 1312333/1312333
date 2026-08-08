@@ -4,19 +4,19 @@
 
 </div>
 
-<!--
+
 ## 👨‍💻 关于我
 
-```typescript
-const developer = {
-  name: "YCH",
-  role: " ",
-  location: "China ",
-  interests: [" "],
-  lifePhilosophy: " "
+```csharp
+var me = new Person {
+    Pronouns          = "he/his",
+    GitHubExperience  = "刚注册，啥都不会 🌱",
+    CurrentlyLearning = new[] { "C#", ".NET", "how git works lol" },
 };
+
+Console.WriteLine("hello world!"); // proud of this one 🥹
 ```
--->
+
 ## 🛠️ 技术栈
 
 ### 💻 编程语言
@@ -41,8 +41,10 @@ const developer = {
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=1312333&show_icons=true&theme=transparent" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1312333&layout=compact&theme=transparent" height="165" />
+<p align="center">
+  <img height="160" src="https://stats.programcx.cn/api?username=1312333&show_icons=true&hide_border=true&bg_color=fff0f5&title_color=c084a0&icon_color=f472b6&text_color=7a5c72" />
+  <img height="160" src="https://stats.programcx.cn/api/top-langs/?username=1312333&layout=compact&hide_border=true&bg_color=fff0f5&title_color=c084a0&text_color=7a5c72" />
+</p>
 
 </div>
 
