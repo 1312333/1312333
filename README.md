@@ -1,5 +1,9 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffb7c5,50:f9a8d4,100:c084fc&height=130&section=header&animation=fadeIn" width="100%"/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Nunito&weight=600&size=22&pause=1000&color=f472b6&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+AWAurora(1312333)+%28%E2%97%A1%EF%B8%B5%EF%B8%B4%29;welcome+to+my+little+pink+corner+%F0%9F%8C%B8;he%2Fhis+%C2%B7+boy+%C2%B7+coder+in+progress)](https://git.io/typing-svg)
+
 # 👋 Hi！
 
 </div>
@@ -56,5 +60,5 @@ Console.WriteLine("hello world!"); // proud of this one 🥹
 *星光不负赶路人，时光不负有心人*
 
 *这个世界并不完美，但依然很精彩*
-
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:c084fc,50:f9a8d4,100:ffb7c5&height=90&section=footer" width="100%"/>
 </div>
