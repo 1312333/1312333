@@ -1,6 +1,6 @@
 <div align="center">
 
-# 👋 Oi！
+# 👋 Hi！
 
 </div>
 
@@ -27,7 +27,8 @@ const developer = {
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![C#](https://img.shields.io/badge/C%23-fda4af?style=for-the-badge&logo=csharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-f9a8d4?style=for-the-badge&logo=dotnet&logoColor=white)
 
 ### 🔧 开发工具
 
@@ -40,7 +41,7 @@ const developer = {
 <div align="center">
 
 <img src="https://github-readme-stats.vercel.app/api?username=1312333&show_icons=true&theme=transparent" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=13123333&layout=compact&theme=transparent" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=1312333&layout=compact&theme=transparent" height="165" />
 
 </div>
 
