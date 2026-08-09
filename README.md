@@ -14,7 +14,7 @@
 ```csharp
 var me = new Person {
     Pronouns          = "he/his",
-    GitHubExperience  = "刚注册，啥都不会 🌱",
+    GitHubExperience  = "正在建设中... 🚧",
     CurrentlyLearning = new[] { "C#", ".NET", "how git works lol" },
 };
 
