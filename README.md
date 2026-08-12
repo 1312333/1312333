@@ -15,10 +15,9 @@
 var me = new Person {
     Pronouns          = "he/his",
     GitHubExperience  = "正在建设中... 🚧",
-    CurrentlyLearning = new[] { "C#", ".NET", "how git works lol" },
+    CurrentlyLearning = new[] { "C#", ".NET", "how Git works lol" },
 };
 
-Console.WriteLine("hello world!"); // proud of this one 🥹
 ```
 
 ## 🛠️ 技术栈
@@ -34,6 +33,9 @@ Console.WriteLine("hello world!"); // proud of this one 🥹
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-fda4af?style=for-the-badge&logo=csharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-f9a8d4?style=for-the-badge&logo=dotnet&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+![Blazor](https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white)
 
 ### 🔧 开发工具
 
